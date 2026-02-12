@@ -32,7 +32,7 @@ Installed Docker & Git plugins.
 ### Step 5: Jenkins Pipeline
 - Cloned code from GitHub
 - Built Docker image
-- Ran Docker container
+- Run Docker container
 
 ### Step 6: Deployment
 Application deployed on AWS EC2 and accessed via public IP and port.
